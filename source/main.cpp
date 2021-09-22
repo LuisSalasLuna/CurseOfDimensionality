@@ -24,7 +24,7 @@ int main()
     mt19937 gen(rd()); //Standard mersenne_twister_engine seeded with rd()
     int maxi = 1000;
     int Npoints = 20000;
-    int dim = 25; //cambiar a cin
+    int dim = 25;
     uniform_int_distribution<> distrib(1, maxi);
 
     //Crear puntos
