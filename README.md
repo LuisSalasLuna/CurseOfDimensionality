@@ -1,4 +1,5 @@
 # CurseOfDimensionality
+Definir el numero de dimensiones en la variable dim(linea 27);
 
 ![Tabla](https://user-images.githubusercontent.com/54364183/134423514-ce507ee8-d124-4cf5-ab1a-e5c7895f1341.png)
 
